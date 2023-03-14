@@ -1,6 +1,7 @@
 # Poetry: Python packaging and dependency management made easy
 
-[![Stable Version](https://img.shields.io/pypi/v/poetry?label=stable)][PyPI Releases]
+[![Stable Version](https://img.shields.io/pypi/v/poetry?label=stable)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fpoetry.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fpoetry?ref=badge_shield)
+[PyPI Releases]
 [![Pre-release Version](https://img.shields.io/github/v/release/python-poetry/poetry?label=pre-release&include_prereleases&sort=semver)][PyPI Releases]
 [![Python Versions](https://img.shields.io/pypi/pyversions/poetry)][PyPI]
 [![Download Stats](https://img.shields.io/pypi/dm/poetry)](https://pypistats.org/packages/poetry)
@@ -112,3 +113,7 @@ external formats like virtual environments
 * [install.python-poetry.org](https://github.com/python-poetry/install.python-poetry.org): The official Poetry
 installation script
 * [website](https://github.com/python-poetry/website): The official Poetry website and blog
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fpoetry.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fpoetry?ref=badge_large)
